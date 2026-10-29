@@ -35,6 +35,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "uint8arrays": "^5.1.0"
+    "uint8arrays": "^6.1.1"
   }
 }
